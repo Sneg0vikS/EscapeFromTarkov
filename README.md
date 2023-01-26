@@ -2,7 +2,7 @@
 
 <h2 dir="auto"></a>Запустить проект на ПК:</h2>
 1) Клонируем проект из реппозитория:
-
+<pre>https://github.com/Sneg0vikS/EscapeFromTarkov.git</pre>
 2) Устанавливаем и активируем виртуальное окружение:
 <pre>1) python -m venv venv
 2) source venv/Scripts/activate</pre>
