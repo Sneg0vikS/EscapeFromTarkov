@@ -13,3 +13,6 @@
 <pre>python manage.py migrate</pre>
 5) Запускаем сервер
 <pre> python manage.py runserver</pre>
+  
+
+ss
